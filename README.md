@@ -94,6 +94,6 @@ This project follows the Git Flow branching model:
 ```
 
 ### Running the Project
-    ```
-    npn run dev  # Start project on a local-server
-    ```
+```
+    npm run dev  # Start project on a local-server
+```
